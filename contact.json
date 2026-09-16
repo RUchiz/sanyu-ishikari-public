@@ -1,0 +1,24 @@
+[
+    {"categoryID":"1","categoryName":"ごみの分別、収集等全般について","post":[
+    {"address":"北海道石狩市花川北6条1丁目30番地2","addressID":"1","comment":"開庁日　月～金（祝日・年末年始を除く）8時45分～17時15分","lat":"43.17158","lng":"141.31558","contactID":"1","name":"石狩市役所　環境市民部ごみ・リサイクル課","url":"https://www.city.ishikari.hokkaido.jp/","fax":"0133-75-2275","mail":"","tel":"0133-72-3126"},
+    {"address":"北海道石狩市厚田区厚田45-5","addressID":"2","comment":"開庁日　月～金（祝日・年末年始を除く）8時45分～17時15分","lat":"43.39964","lng":"141.43405","contactID":"2","name":"厚田支所　市民福祉課","url":"https://www.city.ishikari.hokkaido.jp/","fax":"0133-78-2718","mail":"","tel":"0133-78-2886"},
+    {"address":"北海道石狩市浜益区浜益2-３","addressID":"3","comment":"開庁日　月～金（祝日・年末年始を除く）8時45分～17時15分","lat":"43.60108","lng":"141.38734","contactID":"3","name":"浜益支所　市民福祉課","url":"https://www.city.ishikari.hokkaido.jp/","fax":"0133-79-2350","mail":"","tel":"0133-79-2112"}
+    ]},
+    {"categoryID":"2","categoryName":"粗大ごみコールセンター","post":[
+    {"address":"","addressID":"4","comment":"受付時間　月～金（祝日・年末年始を除く）9時～17時","lat":"","lng":"","contactID":"4","name":"粗大ごみコールセンター","url":"","fax":"","mail":"","tel":"0133-62-5353"}
+    ]},
+    {"categoryID":"3","categoryName":"自己搬入について","post":[
+    {"address":"北海道石狩市厚田区聚富618-11","addressID":"5","comment":"受付時間　月～金（祝日・年末年始を除く）\n・燃やせるごみ　9時～12時15分 13時～17時\n・上記以外のごみ 9時～12時15分 13時～15時\n処理手数料：家庭ごみ　80円/10㎏","lat":"43.27889","lng":"141.38542","contactID":"5","name":"北石狩衛生センター","url":"","fax":"","mail":"","tel":"0133-66-4546"},
+    {"address":"北海道石狩市新港南1丁目22番地63","addressID":"6","comment":"【家庭系資源物】\n受付時間：月～金（祝日・年末年始を除く）\n9時～16時30分\n処理手数料：無料","lat":"43.19298","lng":"141.3286","contactID":"6","name":"石狩市リサイクルプラザ","url":"","fax":"","mail":"","tel":"0133-64-3196"}
+    ]},
+    {"categoryID":"4","categoryName":"認定事業者が行うリサイクル","post":[
+    {"address":"北海道石狩市花川南1条6丁目174番地","addressID":"7","comment":"24時間営業\n資源物無人回収システム","lat":"43.14906","lng":"141.31038","contactID":"7","name":"株式会社マテック（じゅんかんコンビ二24）","url":"https://www.matec-inc.co.jp/jc24/","fax":"","mail":"","tel":"0800-800-8877"}
+    ]},
+    {"categoryID":"5","categoryName":"認定事業者が行うリサイクル（パソコン・小型家電）","post":[
+    {"address":"","addressID":"8","comment":"インターネット受付時間：24時間\n電話受付時間：10時～17時","lat":"","lng":"","contactID":"8","name":"リネットジャパンリサイクル株式会社","url":"https://www.renet.jp","fax":"","mail":"","tel":"0570-085-800"}
+    ]},
+    {"categoryID":"6","categoryName":"認定事業者が行うリサイクル（家電４品目）","post":[
+    {"address":"","addressID":"9","comment":"インターネット受付時間：24時間\n電話受付時間：10時～17時","lat":"","lng":"","contactID":"9","name":"リネットジャパンリサイクル株式会社","url":"https://www.renet.jp/sg-renet/","fax":"","mail":"","tel":"0570-056-006"}
+    ]}
+]
+    
