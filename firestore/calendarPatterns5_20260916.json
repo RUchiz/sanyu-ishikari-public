@@ -1,0 +1,583 @@
+{
+  "collection": "calendarPatterns5",
+  "projectId": "nth-plexus-329507",
+  "retrievedAt": "2026-09-16T09:26:06.412746+00:00",
+  "documents": {
+    "1": {
+      "patterns": [
+        {
+          "type": 1,
+          "youbi": 2,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 2,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 1,
+          "youbi": 5,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 5,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 5,
+          "youbi": 4,
+          "week": 0,
+          "hd": 1
+        },
+        {
+          "type": 3,
+          "youbi": 3,
+          "week": 4,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 3,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 4,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 5,
+          "hd": 0
+        },
+        {
+          "type": 7,
+          "youbi": 1,
+          "week": 1,
+          "hd": 0
+        }
+      ],
+      "areaId": "1",
+      "areaName": "石狩市エリア1"
+    },
+    "2": {
+      "patterns": [
+        {
+          "type": 1,
+          "youbi": 2,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 2,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 1,
+          "youbi": 5,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 5,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 5,
+          "youbi": 4,
+          "week": 0,
+          "hd": 1
+        },
+        {
+          "type": 3,
+          "youbi": 3,
+          "week": 4,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 1,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 3,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 4,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 5,
+          "hd": 0
+        },
+        {
+          "type": 7,
+          "youbi": 1,
+          "week": 2,
+          "hd": 0
+        }
+      ],
+      "areaName": "石狩市エリア2",
+      "areaId": "2"
+    },
+    "3": {
+      "patterns": [
+        {
+          "type": 1,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 1,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 5,
+          "youbi": 5,
+          "week": 0,
+          "hd": 1
+        },
+        {
+          "type": 3,
+          "youbi": 3,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 1,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 3,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 4,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 5,
+          "hd": 0
+        },
+        {
+          "type": 7,
+          "youbi": 2,
+          "week": 2,
+          "hd": 0
+        }
+      ],
+      "areaId": "3",
+      "areaName": "石狩市エリア3"
+    },
+    "4": {
+      "areaId": "4",
+      "areaName": "石狩市エリア4",
+      "patterns": [
+        {
+          "type": 1,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 1,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 5,
+          "youbi": 5,
+          "week": 0,
+          "hd": 1
+        },
+        {
+          "type": 3,
+          "youbi": 3,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 1,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 4,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 5,
+          "hd": 0
+        },
+        {
+          "type": 7,
+          "youbi": 2,
+          "week": 3,
+          "hd": 0
+        }
+      ]
+    },
+    "5": {
+      "areaName": "石狩市エリア5",
+      "areaId": "5",
+      "patterns": [
+        {
+          "type": 1,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 1,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 5,
+          "youbi": 5,
+          "week": 0,
+          "hd": 1
+        },
+        {
+          "type": 3,
+          "youbi": 3,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 1,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 3,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 5,
+          "hd": 0
+        },
+        {
+          "type": 7,
+          "youbi": 2,
+          "week": 4,
+          "hd": 0
+        }
+      ]
+    },
+    "6": {
+      "areaName": "石狩市エリア6",
+      "areaId": "6",
+      "patterns": [
+        {
+          "type": 1,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 1,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 5,
+          "youbi": 5,
+          "week": 0,
+          "hd": 1
+        },
+        {
+          "type": 3,
+          "youbi": 3,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 1,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 4,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 1,
+          "week": 5,
+          "hd": 0
+        },
+        {
+          "type": 7,
+          "youbi": 1,
+          "week": 3,
+          "hd": 0
+        }
+      ]
+    },
+    "7": {
+      "areaId": "7",
+      "areaName": "石狩市エリア7",
+      "patterns": [
+        {
+          "type": 1,
+          "youbi": 2,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 2,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 1,
+          "youbi": 5,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 5,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 5,
+          "youbi": 4,
+          "week": 0,
+          "hd": 1
+        },
+        {
+          "type": 3,
+          "youbi": 3,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 1,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 4,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 5,
+          "hd": 0
+        },
+        {
+          "type": 7,
+          "youbi": 2,
+          "week": 3,
+          "hd": 0
+        }
+      ]
+    },
+    "8": {
+      "areaName": "石狩市エリア8",
+      "patterns": [
+        {
+          "type": 1,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 1,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 1,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 2,
+          "youbi": 4,
+          "week": 0,
+          "hd": 0
+        },
+        {
+          "type": 5,
+          "youbi": 5,
+          "week": 0,
+          "hd": 1
+        },
+        {
+          "type": 3,
+          "youbi": 3,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 1,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 2,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 4,
+          "hd": 0
+        },
+        {
+          "type": 6,
+          "youbi": 2,
+          "week": 5,
+          "hd": 0
+        },
+        {
+          "type": 7,
+          "youbi": 2,
+          "week": 3,
+          "hd": 0
+        }
+      ],
+      "areaId": "8"
+    }
+  }
+}
