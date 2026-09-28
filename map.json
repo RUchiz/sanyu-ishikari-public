@@ -78,23 +78,21 @@
     {"categoryID":"11","categoryName":"生振","post":[
         {"address":"北海道石狩市生振375番地1","addressID":"65","comment":"電池","lat":"43.19125","lng":"141.36146","mapLegendID":"1","name":"生振小学校","url":{}}
     ]},
-    {"categoryID":"12","categoryName":"厚田区","post":[
-        {"address":"北海道石狩市厚田区厚田45番地5","addressID":"17","comment":"古着・古布/小型家電/廃食用油/紙パック/ペットボトルキャップ/電池","lat":"43.39966","lng":"141.43406","mapLegendID":"1","name":"石狩市厚田支所","url":{}},
-        {"address":"北海道石狩市厚田区望来27番地7","addressID":"18","comment":"古着・古布/小型家電/廃食用油/紙パック/インクカートリッジ/小型充電式電池/電池","lat":"43.31804","lng":"141.41811","mapLegendID":"1","name":"石狩市望来コミュニティセンター（みなくる）","url":{}},
-        {"address":"北海道石狩市厚田区厚田44番地6","addressID":"67","comment":"電池","lat":"43.39917","lng":"141.43463","mapLegendID":"1","name":"厚田郵便局","url":{}},
-        {"address":"北海道石狩市厚田区厚田292番地25","addressID":"68","comment":"電池","lat":"43.42502","lng":"141.49658","mapLegendID":"1","name":"発足会館","url":{}},
-        {"address":"北海道石狩市厚田区古潭40番地2","addressID":"69","comment":"電池","lat":"43.35526","lng":"141.43135","mapLegendID":"1","name":"古潭会館","url":{}},
-        {"address":"北海道石狩市厚田区望来94番地22","addressID":"70","comment":"電池","lat":"43.31805","lng":"141.41804","mapLegendID":"1","name":"望来郵便局","url":{}},
-        {"address":"北海道石狩市厚田区聚富171番地2","addressID":"71","comment":"電池","lat":"43.26279","lng":"141.39102","mapLegendID":"1","name":"とれたってマルシェ","url":{}}
+    {"categoryID":"12","categoryName":"厚田","post":[
+        {"address":"北海道石狩市厚田45番地5","addressID":"17","comment":"古着・古布/小型家電/廃食用油/紙パック/ペットボトルキャップ/電池","lat":"43.39966","lng":"141.43406","mapLegendID":"1","name":"石狩市厚田支所","url":{}},
+        {"address":"北海道石狩市厚田望来27番地7","addressID":"18","comment":"古着・古布/小型家電/廃食用油/紙パック/インクカートリッジ/小型充電式電池/電池","lat":"43.31804","lng":"141.41811","mapLegendID":"1","name":"石狩市望来コミュニティセンター（みなくる）","url":{}},
+        {"address":"北海道石狩市厚田44番地6","addressID":"67","comment":"電池","lat":"43.39917","lng":"141.43463","mapLegendID":"1","name":"厚田郵便局","url":{}},
+        {"address":"北海道石狩市厚田292番地25","addressID":"68","comment":"電池","lat":"43.42502","lng":"141.49658","mapLegendID":"1","name":"発足会館","url":{}},
+        {"address":"北海道石狩市厚田古潭40番地2","addressID":"69","comment":"電池","lat":"43.35526","lng":"141.43135","mapLegendID":"1","name":"古潭会館","url":{}},
+        {"address":"北海道石狩市厚田望来94番地22","addressID":"70","comment":"電池","lat":"43.31805","lng":"141.41804","mapLegendID":"1","name":"望来郵便局","url":{}},
+        {"address":"北海道石狩市厚田聚富171番地2","addressID":"71","comment":"電池","lat":"43.26279","lng":"141.39102","mapLegendID":"1","name":"とれたってマルシェ","url":{}}
     ]},
-    {"categoryID":"13","categoryName":"浜益区","post":[
-        {"address":"北海道石狩市浜益区浜益2番地3","addressID":"3","comment":"古着・古布/小型家電/廃食用油/紙パック/インクカートリッジ/ペットボトルキャップ/小型充電式電池/電池","lat":"43.60113","lng":"141.38738","mapLegendID":"1","name":"石狩市浜益支所","url":{}},
-        {"address":"北海道石狩市浜益区浜益630番地1","addressID":"4","comment":"古着・古布/廃食用油/紙パック/小型充電式電池/電池","lat":"43.6004","lng":"141.38337","mapLegendID":"1","name":"石狩市浜益コミュニティセンター（きらり）","url":{}},
-        {"address":"北海道石狩市浜益区幌53番地41","addressID":"5","comment":"電池","lat":"43.65229","lng":"141.35362","mapLegendID":"1","name":"渡辺商店","url":{}},
-        {"address":"北海道石狩市浜益区浜益1番地52","addressID":"6","comment":"電池","lat":"43.60132","lng":"141.38423","mapLegendID":"1","name":"八田商店","url":{}},
-        {"address":"北海道石狩市浜益区川下52番地40","addressID":"7","comment":"電池","lat":"43.58443","lng":"141.38815","mapLegendID":"1","name":"セイコーマート浜益店","url":{}},
-        {"address":"北海道石狩市浜益区川下256番地5","addressID":"8","comment":"電池","lat":"43.58029","lng":"141.38717","mapLegendID":"1","name":"角谷商店","url":{}},
-        {"address":"北海道石狩市浜益区濃昼21番地11","addressID":"9","comment":"電池","lat":"43.47914","lng":"141.39257","mapLegendID":"1","name":"濃昼会館","url":{}}
+    {"categoryID":"13","categoryName":"浜益","post":[
+        {"address":"北海道石狩市浜益2番地3","addressID":"3","comment":"古着・古布/小型家電/廃食用油/紙パック/インクカートリッジ/ペットボトルキャップ/小型充電式電池/電池","lat":"43.60113","lng":"141.38738","mapLegendID":"1","name":"石狩市浜益支所","url":{}},
+        {"address":"北海道石狩市浜益630番地1","addressID":"4","comment":"古着・古布/廃食用油/紙パック/小型充電式電池/電池","lat":"43.6004","lng":"141.38337","mapLegendID":"1","name":"石狩市浜益コミュニティセンター（きらり）","url":{}},
+        {"address":"北海道石狩市浜益幌53番地41","addressID":"5","comment":"電池","lat":"43.65229","lng":"141.35362","mapLegendID":"1","name":"渡辺商店","url":{}},
+        {"address":"北海道石狩市浜益川下52番地40","addressID":"7","comment":"電池","lat":"43.58443","lng":"141.38815","mapLegendID":"1","name":"セイコーマート浜益店","url":{}},
+        {"address":"北海道石狩市浜益濃昼21番地11","addressID":"9","comment":"電池","lat":"43.47914","lng":"141.39257","mapLegendID":"1","name":"濃昼会館","url":{}}
     ]}
     ]
     
