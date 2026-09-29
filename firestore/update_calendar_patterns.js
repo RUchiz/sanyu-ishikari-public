@@ -23,7 +23,7 @@ function loadDesiredDocuments() {
   }
 
   const ids = Object.keys(payload.documents).sort((a, b) => Number(a) - Number(b));
-  if (ids.join(',') !== '1,2,3,4,5,6,7,8,9') {
+  if (ids.join(',') !== '1,2,3,4,5,6,7,8') {
     throw new Error(`unexpected document ids: ${ids.join(',')}`);
   }
 
@@ -35,14 +35,6 @@ function loadDesiredDocuments() {
     const type11 = document.patterns.filter((pattern) => pattern.type === 11);
     if (type11.length !== 1) {
       throw new Error(`type 11 must occur exactly once: area ${id}`);
-    }
-  }
-
-  const area9 = payload.documents['9'].patterns;
-  for (const type of [5, 11]) {
-    const pattern = area9.find((item) => item.type === type);
-    if (!pattern || pattern.youbi !== 4 || pattern.week !== 0 || pattern.hd !== 0) {
-      throw new Error(`invalid area 9 pattern: type ${type}`);
     }
   }
 

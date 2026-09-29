@@ -38,8 +38,8 @@ env \
 ```text
 project: nth-plexus-329507
 collection: calendarPatterns5
-updates: 1,2,3,4,5,6,7,8,9
-deletions: none
+updates: none
+deletions: 9
 dry-run: no writes performed
 ```
 
